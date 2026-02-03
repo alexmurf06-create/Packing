@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\brian\\desktop\\inkpotdemo-release\\inkpotdemo\\plugins\\inkpot\\source\\inkpot\\private\\asset\\inkpotstoryasset.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\brian\\desktop\\inkpotdemo-release\\inkpotdemo\\intermediate\\build\\win64\\x64\\inkpotdemoeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\brian\\desktop\\inkpotdemo-release\\inkpotdemo\\plugins\\inkpot\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\inkpot\\definitions.inkpot.h",
+            "c:\\users\\brian\\desktop\\inkpotdemo-release\\inkpotdemo\\plugins\\inkpot\\source\\inkpot\\public\\asset\\inkpotstoryasset.h",
+            "c:\\users\\brian\\desktop\\inkpotdemo-release\\inkpotdemo\\plugins\\inkpot\\intermediate\\build\\win64\\unrealeditor\\inc\\inkpot\\uht\\inkpotstoryasset.generated.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\editorframework\\assetimportdata.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\coreuobject\\public\\uobject\\assetregistrytagscontext.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\coreuobject\\public\\uobject\\cookenums.h",
+            "d:\\games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\assetimportdata.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

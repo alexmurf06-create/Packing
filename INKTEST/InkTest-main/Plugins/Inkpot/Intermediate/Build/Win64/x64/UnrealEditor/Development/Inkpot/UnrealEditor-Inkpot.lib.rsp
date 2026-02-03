@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Inkpot.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/Brian/Desktop/inktest/InkTest/Intermediate/Build/Win64/x64/InkpotDemoEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/Brian/Desktop/inktest/InkTest/Plugins/Inkpot/Intermediate/Build/Win64/x64/UnrealEditor/Development/Inkpot/Module.Inkpot.1.cpp.obj"
+"C:/Users/Brian/Desktop/inktest/InkTest/Plugins/Inkpot/Intermediate/Build/Win64/x64/UnrealEditor/Development/Inkpot/Module.Inkpot.2.cpp.obj"
+"C:/Users/Brian/Desktop/inktest/InkTest/Plugins/Inkpot/Intermediate/Build/Win64/x64/UnrealEditor/Development/Inkpot/Module.Inkpot.3.cpp.obj"
+"C:/Users/Brian/Desktop/inktest/InkTest/Plugins/Inkpot/Intermediate/Build/Win64/x64/UnrealEditor/Development/Inkpot/Module.Inkpot.4.cpp.obj"
+"C:/Users/Brian/Desktop/inktest/InkTest/Plugins/Inkpot/Intermediate/Build/Win64/x64/UnrealEditor/Development/Inkpot/Default.rc2.res"
+/OUT:"C:/Users/Brian/Desktop/inktest/InkTest/Plugins/Inkpot/Intermediate/Build/Win64/x64/UnrealEditor/Development/Inkpot/UnrealEditor-Inkpot.lib"

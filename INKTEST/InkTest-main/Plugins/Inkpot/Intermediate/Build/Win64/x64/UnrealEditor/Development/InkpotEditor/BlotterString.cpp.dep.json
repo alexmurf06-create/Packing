@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\brian\\desktop\\inkpotdemo-release\\inkpotdemo\\plugins\\inkpot\\source\\inkpoteditor\\private\\blotter\\blotterstring.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\brian\\desktop\\inkpotdemo-release\\inkpotdemo\\intermediate\\build\\win64\\x64\\inkpotdemoeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\brian\\desktop\\inkpotdemo-release\\inkpotdemo\\plugins\\inkpot\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\inkpoteditor\\definitions.inkpoteditor.h",
+            "c:\\users\\brian\\desktop\\inkpotdemo-release\\inkpotdemo\\plugins\\inkpot\\source\\inkpoteditor\\public\\blotter\\blotterstring.h",
+            "c:\\users\\brian\\desktop\\inkpotdemo-release\\inkpotdemo\\plugins\\inkpot\\intermediate\\build\\win64\\unrealeditor\\inc\\inkpoteditor\\uht\\blotterstring.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

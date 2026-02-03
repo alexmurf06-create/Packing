@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\brian\\desktop\\inkpotdemo-release\\inkpotdemo\\plugins\\inkpot\\source\\inkpot\\private\\settings\\inkpotpreferences.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\brian\\desktop\\inkpotdemo-release\\inkpotdemo\\intermediate\\build\\win64\\x64\\inkpotdemoeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\brian\\desktop\\inkpotdemo-release\\inkpotdemo\\plugins\\inkpot\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\inkpot\\definitions.inkpot.h",
+            "c:\\users\\brian\\desktop\\inkpotdemo-release\\inkpotdemo\\plugins\\inkpot\\source\\inkpot\\public\\settings\\inkpotpreferences.h",
+            "c:\\users\\brian\\desktop\\inkpotdemo-release\\inkpotdemo\\plugins\\inkpot\\intermediate\\build\\win64\\unrealeditor\\inc\\inkpot\\uht\\inkpotpreferences.generated.h",
+            "c:\\users\\brian\\desktop\\inkpotdemo-release\\inkpotdemo\\plugins\\inkpot\\source\\inkpot\\public\\settings\\inkpotcvars.h",
+            "c:\\users\\brian\\desktop\\inkpotdemo-release\\inkpotdemo\\plugins\\inkpot\\source\\inkpot\\public\\inkpot\\inkpot.h",
+            "c:\\users\\brian\\desktop\\inkpotdemo-release\\inkpotdemo\\plugins\\inkpot\\intermediate\\build\\win64\\unrealeditor\\inc\\inkpot\\uht\\inkpot.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

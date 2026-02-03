@@ -1,0 +1,32 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Inkpot.1.cpp.obj": [
+			"AsyncAction_WaitVariableChange.gen.cpp.obj",
+			"Inkpot.gen.cpp.obj",
+			"Inkpot.init.gen.cpp.obj",
+			"InkpotChoice.gen.cpp.obj",
+			"InkpotGameplayTagLibrary.gen.cpp.obj",
+			"InkpotLibrary.gen.cpp.obj",
+			"InkpotLine.gen.cpp.obj",
+			"InkpotList.gen.cpp.obj",
+			"InkpotListLibrary.gen.cpp.obj",
+			"InkpotPreferences.gen.cpp.obj",
+			"InkpotSettings.gen.cpp.obj",
+			"InkpotStories.gen.cpp.obj",
+			"InkpotStoryAsset.gen.cpp.obj"
+		],
+		"Module.Inkpot.2.cpp.obj": [
+			"InkpotStoryFactory.gen.cpp.obj",
+			"InkpotStoryHistory.gen.cpp.obj",
+			"InkpotStoryMetaDataSimple.gen.cpp.obj",
+			"InkpotValue.gen.cpp.obj",
+			"InkpotValueLibrary.gen.cpp.obj",
+			"InkpotWatch.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj"
+		],
+		"Module.Inkpot.3.cpp.obj": [
+			"InkpotStory.gen.cpp.obj"
+		]
+	}
+}

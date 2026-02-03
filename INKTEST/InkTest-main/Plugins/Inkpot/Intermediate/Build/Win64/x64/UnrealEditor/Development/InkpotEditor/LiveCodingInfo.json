@@ -1,0 +1,45 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.InkpotEditor.cpp.obj": [
+			"BlotterContainer.gen.cpp.obj",
+			"BlotterOption.gen.cpp.obj",
+			"BlotterString.gen.cpp.obj",
+			"BlotterUIEntryContainer.gen.cpp.obj",
+			"BlotterUIEntryOption.gen.cpp.obj",
+			"BlotterUIEntryString.gen.cpp.obj",
+			"BlotterUIEntryVariable.gen.cpp.obj",
+			"BlotterVariable.gen.cpp.obj",
+			"InkFunctionTests.gen.cpp.obj",
+			"InkpotBlotter.gen.cpp.obj",
+			"InkpotEditor.init.gen.cpp.obj",
+			"InkpotImportPipeline.gen.cpp.obj",
+			"InkpotImportPipelineLibrary.gen.cpp.obj",
+			"InkpotOutliner.gen.cpp.obj",
+			"InkpotStoryAssetFactory.gen.cpp.obj",
+			"InkpotTagMenu.gen.cpp.obj",
+			"InkpotTagUtility.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"InkpotStoryAssetActions.cpp.obj",
+			"InkpotStoryAssetFactory.cpp.obj",
+			"BlotterOption.cpp.obj",
+			"BlotterString.cpp.obj",
+			"BlotterUIEntryOption.cpp.obj",
+			"BlotterUIEntryString.cpp.obj",
+			"BlotterUIEntryVariable.cpp.obj",
+			"BlotterVariable.cpp.obj",
+			"InkpotBlotter.cpp.obj",
+			"InkCompiler.cpp.obj",
+			"InkpotTagMenu.cpp.obj",
+			"InkpotTagUtility.cpp.obj",
+			"InkpotImportPipeline.cpp.obj",
+			"InkpotImportPipelineLibrary.cpp.obj",
+			"InkpotEditorModule.cpp.obj",
+			"BlotterContainer.cpp.obj",
+			"BlotterUIEntryContainer.cpp.obj",
+			"InkpotOutliner.cpp.obj",
+			"InkFunctionTests.cpp.obj",
+			"InkPlusPlusTest.cpp.obj"
+		]
+	}
+}

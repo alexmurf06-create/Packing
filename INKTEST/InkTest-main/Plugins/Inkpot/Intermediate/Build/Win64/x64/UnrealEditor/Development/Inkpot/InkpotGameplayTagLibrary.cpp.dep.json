@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\brian\\desktop\\inkpotdemo-release\\inkpotdemo\\plugins\\inkpot\\source\\inkpot\\private\\inkpot\\inkpotgameplaytaglibrary.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\brian\\desktop\\inkpotdemo-release\\inkpotdemo\\intermediate\\build\\win64\\x64\\inkpotdemoeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\brian\\desktop\\inkpotdemo-release\\inkpotdemo\\plugins\\inkpot\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\inkpot\\definitions.inkpot.h",
+            "c:\\users\\brian\\desktop\\inkpotdemo-release\\inkpotdemo\\plugins\\inkpot\\source\\inkpot\\public\\inkpot\\inkpotgameplaytaglibrary.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\gameplaytags\\public\\gameplaytags.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\core\\public\\misc\\monolithicheaderboilerplate.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagsmanager.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "d:\\games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "d:\\games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagsmanager.generated.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagassetinterface.h",
+            "d:\\games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagassetinterface.generated.h",
+            "c:\\users\\brian\\desktop\\inkpotdemo-release\\inkpotdemo\\plugins\\inkpot\\intermediate\\build\\win64\\unrealeditor\\inc\\inkpot\\uht\\inkpotgameplaytaglibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

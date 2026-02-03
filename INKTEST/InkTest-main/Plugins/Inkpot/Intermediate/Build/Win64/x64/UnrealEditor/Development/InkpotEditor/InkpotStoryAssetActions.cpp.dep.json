@@ -1,0 +1,39 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\brian\\desktop\\inkpotdemo-release\\inkpotdemo\\plugins\\inkpot\\source\\inkpoteditor\\private\\asset\\inkpotstoryassetactions.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\brian\\desktop\\inkpotdemo-release\\inkpotdemo\\intermediate\\build\\win64\\x64\\inkpotdemoeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\brian\\desktop\\inkpotdemo-release\\inkpotdemo\\plugins\\inkpot\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\inkpoteditor\\definitions.inkpoteditor.h",
+            "c:\\users\\brian\\desktop\\inkpotdemo-release\\inkpotdemo\\plugins\\inkpot\\source\\inkpoteditor\\public\\asset\\inkpotstoryassetactions.h",
+            "d:\\games\\ue_5.7\\engine\\source\\developer\\assettools\\public\\assettypeactions_base.h",
+            "d:\\games\\ue_5.7\\engine\\source\\developer\\assettools\\public\\iassettools.h",
+            "d:\\games\\ue_5.7\\engine\\source\\developer\\assettools\\public\\assettypecategories.h",
+            "d:\\games\\ue_5.7\\engine\\source\\developer\\assettools\\public\\iassettypeactions.h",
+            "d:\\games\\ue_5.7\\engine\\source\\developer\\merge\\public\\merge.h",
+            "d:\\games\\ue_5.7\\engine\\source\\editor\\unrealed\\classes\\thumbnailrendering\\thumbnailmanager.h",
+            "d:\\games\\ue_5.7\\engine\\source\\editor\\unrealed\\classes\\thumbnailrendering\\thumbnailrenderer.h",
+            "d:\\games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\thumbnailrenderer.generated.h",
+            "d:\\games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\thumbnailmanager.generated.h",
+            "d:\\games\\ue_5.7\\engine\\source\\editor\\unrealed\\public\\automatedassetimportdata.h",
+            "d:\\games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\automatedassetimportdata.generated.h",
+            "d:\\games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\assettools\\uht\\iassettools.generated.h",
+            "d:\\games\\ue_5.7\\engine\\source\\developer\\assettools\\public\\assettoolsmodule.h",
+            "d:\\games\\ue_5.7\\engine\\source\\editor\\unrealed\\public\\toolkits\\simpleasseteditor.h",
+            "c:\\users\\brian\\desktop\\inkpotdemo-release\\inkpotdemo\\plugins\\inkpot\\source\\inkpoteditor\\public\\inkpoteditormodule.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\assetregistry\\public\\assetregistry\\assetregistrymodule.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\assetregistry\\public\\assetregistry\\iassetregistry.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\coreuobject\\public\\misc\\assetregistryinterface.h",
+            "d:\\games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\assetregistry\\uht\\iassetregistry.generated.h",
+            "c:\\users\\brian\\desktop\\inkpotdemo-release\\inkpotdemo\\plugins\\inkpot\\source\\inkpot\\public\\asset\\inkpotstoryasset.h",
+            "c:\\users\\brian\\desktop\\inkpotdemo-release\\inkpotdemo\\plugins\\inkpot\\intermediate\\build\\win64\\unrealeditor\\inc\\inkpot\\uht\\inkpotstoryasset.generated.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\editorframework\\assetimportdata.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\coreuobject\\public\\uobject\\assetregistrytagscontext.h",
+            "d:\\games\\ue_5.7\\engine\\source\\runtime\\coreuobject\\public\\uobject\\cookenums.h",
+            "d:\\games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\assetimportdata.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
